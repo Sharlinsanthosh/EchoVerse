@@ -39,3 +39,15 @@ This project will grow into:
 ```bash
 pip install speechrecognition pyttsx3 pyaudio
 python echoverse.py
+Creator
+
+Built by Kennedy –
+For dreamers, tinkerers, and the brave who believe gaming can be spoken into reality.
+
+
+---
+
+License
+
+Creative concept owned by Kennedy.
+Currently for educational and experimental use only.
